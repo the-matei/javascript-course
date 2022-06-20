@@ -49,7 +49,7 @@ console.log(me);
 
 var me = 'Jonas';
 let job = 'teacher';
-const year = 1991;
+const year = 1991; 
 
 // Functions
 console.log(addDecl(2, 3));
